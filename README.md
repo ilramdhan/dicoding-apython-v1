@@ -6,4 +6,4 @@ Project name = Bike Sharing
 
 
 ## Belajar Machine Learning Untuk Pemula
-Project name = Rock, Paper, Scrissor 
+Project name = Image Classification (Rock, Paper, and Scrissor)
