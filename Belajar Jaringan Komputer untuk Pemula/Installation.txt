@@ -1,0 +1,47 @@
+git clone https://github.com/dicodingacademy/a387-jarkom-labs.git
+
+cd https://github.com/dicodingacademy/a387-jarkom-labs.git
+
+sudo apt update
+
+sudo apt install nginx
+
+sudo apt install nodejs
+
+sudo apt install npm
+
+node -v
+npm -v
+
+
+Apabila usai menginstal NGINX dan membuka http://localhost/ yang muncul adalah Apache2 Default Page
+(karena kita pernah menginstal Apache2 sebelumnya), silakan stop service-nya dengan perintah sudo
+service apache2 stop. Jika masih belum bisa, hapus apache2 dengan perintah sudo apt remove apache2.
+Bila masih belum bisa juga, jalankan perintah berikut mv /var/www/html/index.html index.html_bkp dan
+refresh halaman browser kembali. Niscaya Anda akan melihat NGINX Welcome Page.
+
+
+sudo service nginx status
+
+//menjalankan app.js
+node app.js
+
+// konfigurasi NGINX
+cat /etc/nginx/sites-available/default
+sudo nano /etc/nginx/sites-available/default
+
+//konfigurasi apache
+cat /etc/apache2/sites-available/000-default.conf
+sudo nano /etc/apache2/sites-available/000-default.conf
+
+cat /etc/apache2/sites-enabled/000-default.conf
+
+//
+cat /etc/apache2/ports.conf
+sudo nano /etc/apache2/ports.conf
+
+sudo service nginx start
+sudo service nginx stop
+
+
+
