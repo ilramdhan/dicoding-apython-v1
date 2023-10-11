@@ -7,4 +7,4 @@ Project name = Bike Sharing
 Project name = Image Classification (Rock, Paper, and Scrissor)
 
 ## Belajar Membuat Aplikasi Back-End untuk Pemula
-Project name = Bookshelf API
+Project name = Bookshelf API (Library)
