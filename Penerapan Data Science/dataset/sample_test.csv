@@ -1,0 +1,51 @@
+EmployeeId,EmployeeName,Age,BusinessTravel,DailyRate,Department,DistanceFromHome,Education,EducationField,EmployeeCount,EnvironmentSatisfaction,Gender,HourlyRate,JobInvolvement,JobLevel,JobRole,JobSatisfaction,MaritalStatus,MonthlyIncome,MonthlyRate,NumCompaniesWorked,Over18,OverTime,PercentSalaryHike,PerformanceRating,RelationshipSatisfaction,StandardHours,StockOptionLevel,TotalWorkingYears,TrainingTimesLastYear,WorkLifeBalance,YearsAtCompany,YearsInCurrentRole,YearsSinceLastPromotion,YearsWithCurrManager
+958,Budi Santoso,30,Travel_Rarely,793,Research & Development,16,1,Life Sciences,1,2,Male,33,3,1,Research Scientist,4,Married,2862,3811,1,Y,No,12,3,2,80,1,10,2,2,10,0,0,8
+193,Tri Utami,39,Travel_Frequently,711,Research & Development,4,3,Medical,1,1,Female,81,3,2,Manufacturing Director,3,Single,5042,3140,0,Y,No,13,3,4,80,0,10,2,1,9,2,3,8
+869,Agus Susanto,58,Non-Travel,350,Sales,2,3,Medical,1,2,Male,52,3,4,Manager,2,Divorced,16291,22577,4,Y,No,22,4,4,80,1,37,0,2,16,9,14,14
+105,Ratna Dewi,46,Travel_Rarely,1319,Sales,3,3,Technical Degree,1,1,Female,45,4,4,Sales Executive,1,Divorced,13225,7739,2,Y,No,12,3,4,80,1,25,5,3,19,17,2,8
+1000,Surya Nugraha,27,Travel_Rarely,1302,Research & Development,19,3,Other,1,4,Male,67,2,1,Laboratory Technician,1,Divorced,4066,16290,1,Y,No,11,3,1,80,2,7,3,3,7,7,0,7
+1312,Lina Purnama,30,Travel_Rarely,945,Sales,9,3,Medical,1,2,Male,89,3,1,Sales Representative,4,Single,1081,16019,1,Y,No,13,3,3,80,0,1,3,2,1,0,0,0
+917,Hadi Sutanto,33,Travel_Rarely,589,Research & Development,28,4,Life Sciences,1,2,Male,79,3,2,Laboratory Technician,3,Married,5207,22949,1,Y,Yes,12,3,2,80,1,15,3,3,15,14,5,7
+392,Nia Cahyani,41,Travel_Rarely,796,Sales,4,1,Marketing,1,3,Female,81,3,3,Sales Executive,3,Divorced,10447,26458,0,Y,Yes,13,3,4,80,1,23,3,4,22,14,13,5
+904,Joko Pratama,54,Travel_Rarely,584,Research & Development,22,5,Medical,1,2,Female,91,3,4,Manager,3,Married,17426,18685,3,Y,No,25,4,3,80,1,36,6,3,10,8,4,7
+742,Ani Wijaya,47,Travel_Frequently,1093,Sales,9,3,Life Sciences,1,3,Male,82,1,4,Sales Executive,3,Married,12936,24164,7,Y,No,11,3,3,80,0,25,3,1,23,5,14,10
+96,Adi Kusuma,29,Travel_Rarely,136,Research & Development,1,3,Life Sciences,1,1,Male,89,3,2,Healthcare Representative,1,Married,5373,6225,0,Y,No,12,3,1,80,1,6,5,2,5,3,0,2
+925,Siti Rahayu,46,Travel_Rarely,706,Research & Development,2,2,Life Sciences,1,4,Male,82,3,3,Manufacturing Director,4,Divorced,8578,19989,3,Y,No,14,3,3,80,1,12,4,2,9,8,4,7
+1274,Herry Tanjung,50,Travel_Frequently,333,Research & Development,22,5,Medical,1,3,Male,88,1,4,Research Director,4,Single,14411,24450,1,Y,Yes,13,3,4,80,0,32,2,3,32,6,13,9
+305,Yuni Anggraeni,28,Travel_Rarely,1404,Research & Development,17,3,Technical Degree,1,3,Male,32,2,1,Laboratory Technician,4,Divorced,2367,18779,5,Y,No,12,3,1,80,1,6,2,2,4,1,0,3
+259,Dedi Saputra,39,Travel_Rarely,835,Research & Development,19,4,Other,1,4,Male,41,3,2,Research Scientist,4,Divorced,3902,5141,8,Y,No,14,3,2,80,3,7,2,3,2,2,2,2
+198,Retno Hadi,41,Travel_Rarely,337,Sales,8,3,Marketing,1,3,Female,54,3,2,Sales Executive,2,Married,4393,26841,5,Y,No,21,4,3,80,1,14,3,3,5,4,1,4
+1057,Bambang Santosa,36,Travel_Rarely,1351,Research & Development,26,4,Life Sciences,1,1,Male,80,3,2,Healthcare Representative,3,Married,5347,7419,6,Y,No,14,3,2,80,2,10,2,2,3,2,0,2
+1009,Dewi Puspita,20,Travel_Rarely,727,Sales,9,1,Life Sciences,1,4,Male,54,3,1,Sales Representative,1,Single,2728,21082,1,Y,No,11,3,1,80,0,2,3,3,2,2,0,2
+1069,Fajar Kurniawan,33,Travel_Rarely,501,Research & Development,15,2,Medical,1,2,Female,95,3,2,Healthcare Representative,4,Married,4878,21653,0,Y,Yes,13,3,1,80,1,10,6,3,9,7,8,1
+289,Rina Sari,31,Travel_Rarely,359,Human Resources,18,5,Human Resources,1,4,Male,89,4,1,Human Resources,1,Married,2956,21495,0,Y,No,17,3,3,80,0,2,4,3,1,0,0,0
+1360,Wahyu Setiawan,38,Travel_Frequently,148,Research & Development,2,3,Medical,1,4,Female,42,2,1,Laboratory Technician,2,Single,2440,23826,1,Y,No,22,4,2,80,0,4,3,3,4,3,3,3
+47,Rini Handayani,38,Travel_Rarely,345,Sales,10,2,Life Sciences,1,1,Female,100,3,2,Sales Executive,4,Married,5343,5982,1,Y,No,11,3,3,80,1,10,1,3,10,7,1,9
+1463,Arya Nugroho,41,Travel_Rarely,1206,Sales,23,2,Life Sciences,1,4,Male,80,3,3,Sales Executive,3,Single,7082,11591,3,Y,Yes,16,3,4,80,0,21,2,3,2,0,0,2
+252,Yuli Indah,28,Travel_Rarely,1475,Sales,13,2,Marketing,1,4,Female,84,3,2,Sales Executive,3,Single,9854,23352,3,Y,Yes,11,3,4,80,0,6,0,3,2,0,2,2
+794,Denny Firmansyah,44,Travel_Frequently,602,Human Resources,1,5,Human Resources,1,1,Male,37,3,2,Human Resources,4,Married,5743,10503,4,Y,Yes,11,3,3,80,0,14,3,3,10,7,0,2
+408,Yuli Susanti,36,Travel_Rarely,335,Sales,17,2,Marketing,1,3,Male,33,2,2,Sales Executive,2,Married,5507,16822,2,Y,No,16,3,3,80,2,12,1,1,4,2,1,3
+1276,Hendra Wijaya,32,Travel_Rarely,267,Research & Development,29,4,Life Sciences,1,3,Female,49,2,1,Laboratory Technician,2,Single,2837,15919,1,Y,No,13,3,3,80,0,6,3,3,6,2,4,1
+1267,Maya Dewi,51,Travel_Rarely,942,Research & Development,3,3,Technical Degree,1,1,Female,53,3,3,Manager,3,Married,13116,22984,2,Y,No,11,3,4,80,0,15,2,3,2,2,2,2
+1390,Agus Widodo,28,Travel_Rarely,1083,Research & Development,29,1,Life Sciences,1,3,Male,96,1,2,Manufacturing Director,2,Married,6549,3173,1,Y,No,14,3,2,80,2,8,2,2,8,6,1,7
+679,Nita Permata,46,Travel_Rarely,228,Sales,3,3,Life Sciences,1,3,Female,51,3,4,Manager,2,Married,16606,11380,8,Y,No,12,3,4,80,1,23,2,4,13,12,5,1
+1444,Rudi Hartono,24,Travel_Frequently,567,Research & Development,2,1,Technical Degree,1,1,Female,32,3,1,Research Scientist,4,Single,3760,17218,1,Y,Yes,13,3,3,80,0,6,2,3,6,3,1,3
+660,Ayu Fitriani,35,Travel_Rarely,104,Research & Development,2,3,Life Sciences,1,1,Female,69,3,1,Laboratory Technician,1,Divorced,2074,26619,1,Y,Yes,12,3,4,80,1,1,2,3,1,0,0,0
+284,Dedi Rachman,32,Travel_Frequently,1318,Sales,10,4,Marketing,1,4,Male,79,3,2,Sales Executive,4,Single,4648,26075,8,Y,No,13,3,3,80,0,4,2,4,0,0,0,0
+1051,Irma Suryani,35,Travel_Rarely,682,Sales,18,4,Medical,1,2,Male,71,3,2,Sales Executive,1,Married,5561,15975,0,Y,No,16,3,4,80,1,6,2,1,5,3,0,4
+992,Joko Susanto,36,Travel_Rarely,1266,Sales,10,4,Technical Degree,1,2,Female,63,2,2,Sales Executive,3,Married,5673,6060,1,Y,Yes,13,3,1,80,1,10,4,3,10,9,1,7
+1097,Santi Purnomo,29,Travel_Frequently,746,Sales,24,3,Technical Degree,1,3,Male,45,4,1,Sales Representative,1,Single,1091,10642,1,Y,No,17,3,4,80,0,1,3,3,1,0,0,0
+1064,Erik Setiawan,45,Non-Travel,336,Sales,26,3,Marketing,1,1,Male,52,2,2,Sales Executive,1,Married,4385,24162,1,Y,No,15,3,1,80,1,10,2,3,10,7,4,5
+465,Rina Anggraini,37,Travel_Rarely,370,Research & Development,10,4,Medical,1,4,Male,58,3,2,Manufacturing Director,1,Single,4213,4992,1,Y,No,15,3,2,80,0,10,4,1,10,3,0,8
+66,Wahyu Adi,45,Travel_Rarely,1005,Research & Development,28,2,Technical Degree,1,4,Female,48,2,4,Research Director,2,Single,16704,17119,1,Y,No,11,3,3,80,0,21,2,3,21,6,8,6
+1256,Lina Setyawati,36,Travel_Rarely,559,Research & Development,12,4,Life Sciences,1,3,Female,76,3,2,Manufacturing Director,3,Married,4663,12421,9,Y,Yes,12,3,2,80,2,7,2,3,3,2,1,1
+1,Anton Widjaja,38,Travel_Frequently,1444,Human Resources,1,4,Other,1,4,Male,88,3,1,Human Resources,2,Married,2991,5224,0,Y,Yes,11,3,2,80,1,7,2,3,6,2,1,2
+663,Nana Rahmawati,31,Travel_Rarely,741,Research & Development,2,4,Life Sciences,1,2,Male,69,3,1,Laboratory Technician,3,Married,3477,18103,1,Y,No,14,3,4,80,1,6,2,4,5,2,0,3
+1165,Rizky Prasetyo,35,Travel_Rarely,1224,Sales,7,4,Life Sciences,1,3,Female,55,3,2,Sales Executive,4,Married,5204,13586,1,Y,Yes,11,3,4,80,0,10,2,3,10,8,0,9
+886,Mia Sari,31,Non-Travel,325,Research & Development,5,3,Medical,1,2,Male,74,3,2,Manufacturing Director,1,Single,9936,3787,0,Y,No,19,3,2,80,0,10,2,3,9,4,1,7
+1169,Doni Pratama,32,Non-Travel,953,Research & Development,5,4,Technical Degree,1,2,Male,65,3,1,Research Scientist,2,Single,2718,17674,2,Y,No,14,3,2,80,0,12,3,3,7,7,0,7
+1252,Novi Susanti,29,Travel_Frequently,461,Research & Development,1,3,Life Sciences,1,4,Male,70,4,2,Healthcare Representative,3,Single,6294,23060,8,Y,Yes,12,3,4,80,0,10,5,4,3,2,0,2
+257,Yanto Budiman,46,Travel_Rarely,1277,Sales,2,3,Life Sciences,1,3,Male,74,3,3,Sales Executive,4,Divorced,10368,5596,4,Y,Yes,12,3,2,80,1,13,5,2,10,6,0,3
+332,Fitri Utami,30,Travel_Rarely,1092,Research & Development,10,3,Medical,1,1,Female,64,3,3,Manufacturing Director,3,Single,9667,2739,9,Y,No,14,3,2,80,0,9,3,3,7,7,0,2
+410,Andi Kurniawan,29,Travel_Rarely,1378,Research & Development,13,2,Other,1,4,Male,46,2,2,Laboratory Technician,2,Married,4025,23679,4,Y,Yes,13,3,1,80,1,10,2,3,4,3,0,3
+342,Dina Putri,41,Non-Travel,552,Human Resources,4,3,Human Resources,1,3,Male,60,1,2,Human Resources,2,Married,6430,20794,6,Y,No,19,3,2,80,1,10,4,3,3,2,1,2
