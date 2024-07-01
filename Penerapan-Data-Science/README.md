@@ -67,13 +67,17 @@ pip install -r requirements.txt
 
 ## Run Steamlit Prediction Apps
 
-Untuk menjalankan aplikasi ini, kamu harus masuk ke folder (_directory_) yang sesuai, kemudian masukkan command berikut dan tekan Enter:
+Untuk menjalankan aplikasi ini, kamu harus masuk ke folder (_directory_) yang sesuai dengan file `prediction.py` berada, kemudian masukkan command berikut dan tekan Enter:
 ```bash
 streamlit run prediction.py
 ```
+ Atau akses secara online: <a href=" https://hr-employee-attrition-prediction.streamlit.app/">HR - Employee Attrition Prediction App</a> 
+
+
+
 ### Fitur:
 
-1. Melakukan prediksi dengan mengupload data karyawan dalam format `.csv` dan terdapat slider untuk mengatur banyaknya data yang akan dipratinjau.
+1. Melakukan prediksi dengan mengupload data karyawan dalam format `.csv`, sudah ada juga contoh file yang bisa kamu coba di `dataset/sample_test.csv`. Terdapat slider untuk mengatur banyaknya data yang ingin dipratinjau.
 2. Pemilihan model machine learning yang memungkinkan _user_ dapat beriteraksi dengan aplikasi menjadi lebih baik.
 3. Hasil prediksi dapat didownload dalam format `.csv` sehingga menjadi lebih mudah diakses.
 
