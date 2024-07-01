@@ -1,5 +1,7 @@
 import streamlit as st
 import pandas as pd
+from sklearn.ensemble import RandomForestClassifier, GradientBoostingClassifier
+from sklearn.linear_model import LogisticRegression
 import pickle
 
 # Load model
