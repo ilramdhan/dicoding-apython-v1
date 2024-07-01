@@ -7,9 +7,9 @@ import pickle
 # Load model
 def load_model(model_name):
     if model_name == 'Logistic Regression':
-        model = pickle.load(open('https://github.com/maulanakavaldo/dicoding-project/blob/main/Penerapan-Data-Science/models/no_resampling_logistic_regression_model.pkl', 'rb'))
+        model = pickle.load(open('models/no_resampling_logistic_regression_model.pkl', 'rb'))
     elif model_name == 'SVM':
-        model = pickle.load(open('https://github.com/maulanakavaldo/dicoding-project/blob/main/Penerapan-Data-Science/models/no_resampling_svm_model.pkl', 'rb'))
+        model = pickle.load(open('models/no_resampling_svm_model.pkl', 'rb'))
     # elif model_name == 'Decission Tree':
     #     model = pickle.load(open('models/decision_tree_model.pkl', 'rb'))
     # elif model_name == 'Random Forest':
