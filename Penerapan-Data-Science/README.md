@@ -71,7 +71,7 @@ Untuk menjalankan aplikasi ini, kamu harus masuk ke folder (_directory_) yang se
 ```bash
 streamlit run prediction.py
 ```
- Atau akses secara online: <a href=" https://hr-employee-attrition-prediction.streamlit.app/">HR - Employee Attrition Prediction App</a> 
+ Atau akses secara online: <a href="https://employee-attrition-prediction-ml.streamlit.app/">HR - Employee Attrition Prediction App</a> 
 
 
 
